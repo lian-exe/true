@@ -1,0 +1,22 @@
+<html>
+<head>
+<title> About Me </title>
+<link rel="stylesheet" type="text/css" href="style2.css">
+</head>
+<body>
+
+<div id="lian">
+ <div class="titleprofile">Muhammad Arif Yuliantoro</div>
+ <div class="photoprofile">
+ <img src="latar.jpg" class="imgprofile"></img>
+ </div>
+ <div class="dataprofile"> NIM : 215410009 <br> STATUS : MAHASISWA <br> KAMPUS :UNIVERSITAS TEKNOLOGI DIGITAL INDONESIA <br> 
+ <br> Tentang Saya<br>Saya lahir pada tanggal 19 Juli 2002.Pada saat itu,saya diberi nama Muhammad Arif Yuliantoro yang berarti orang yang beriman dan bijak di antara bulan juli.
+ Lahir di desa kecil dalam wilayah Kabupaten Kulon Progo dari kedua orang tua bernama Sutiyono dan Sumiyati. 
+ Saya telah menamatkan sekolah dasar di SDN 1 Sungapan,pendidikan menengah pertama di SMPN 1 Lendah,dan Sekolah Menengah Kejuruan di SMKN 2 PENGASIH.
+ Pemuda yang menyukai film,bermain game dan belajar mengenai pemrograman. Saya menyukai banyak musik,salah satunya adalah lagu dari Masdo. Sangat berkeinginan untuk membahagiakan orang tua.
+ </div>
+</div>
+<li><a href="index.html">Kembali ke beranda</a></li>
+</body>
+</html>
